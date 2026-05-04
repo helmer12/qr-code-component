@@ -8,8 +8,9 @@ This is a solution to the QR Code Component challenge on Frontend Mentor. The go
 
 ## 🔗 Links
 
-- Live Site: https://yourusername.github.io/qr-code-component
-- Repository: https://github.com/yourusername/qr-code-component
+- Live Site: https://helmer12.github.io/qr-code-component
+- Repository: https://github.com/helmer12/qr-code-component
+
 
 ## 🛠️ Built with
 
@@ -27,4 +28,4 @@ I want to keep improving my CSS skills, particularly in spacing, typography, and
 
 ## 👤 Author
 
-- GitHub - [yourusername](https://github.com/yourusername)
+- GitHub - [helmer12](https://github.com/helmer12)
